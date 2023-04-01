@@ -1,1 +1,5 @@
 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
+
+git add .
+git commit -m "ez"
+git push
